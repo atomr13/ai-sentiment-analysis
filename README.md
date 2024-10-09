@@ -1,7 +1,6 @@
 # Sentiment Analysis App
 
-### This is a sentiment analysis web app that uses a pre-trained BERT model to classify user reviews as positive or negative. The app tracks and counts the total number of positive and negative reviews.
-
+This is a sentiment analysis web app that uses a pre-trained BERT model to classify user reviews as positive or negative. The app tracks and counts the total number of positive and negative reviews.
 
 ### Features
 
@@ -13,11 +12,11 @@
 
     Clone this repository:
 
+    bash
+
 ```
 git clone https://github.com/atomr13/sentiment-analysis.git
-
 ```
-
 Navigate to the project directory:
 
 bash

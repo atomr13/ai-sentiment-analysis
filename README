@@ -1,7 +1,8 @@
 Sentiment Analysis App
 
 This is a sentiment analysis web app that uses a pre-trained BERT model to classify user reviews as positive or negative. The app tracks and counts the total number of positive and negative reviews.
-Features
+
+##Features
 
     Analyze text sentiment using a pre-trained BERT model.
     Track positive and negative review counts.

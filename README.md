@@ -13,7 +13,7 @@ This is a sentiment analysis web app that uses a pre-trained BERT model to class
 Clone this repository:
 
 ```
-git clone https://github.com/atomr13/sentiment-analysis.git
+git clone https://github.com/atomr13/ai-sentiment-analysis.git
 ```
 
 ## Install the required dependencies:

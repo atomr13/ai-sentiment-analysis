@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Run the app:
 
 ```
-python sapp.py
+python main.py
 ```
 
 ## Usage

@@ -10,37 +10,30 @@ This is a sentiment analysis web app that uses a pre-trained BERT model to class
 
 ## Installation
 
-    Clone this repository:
-
-    bash
+Clone this repository:
 
 ```
 git clone https://github.com/atomr13/sentiment-analysis.git
 ```
-Navigate to the project directory:
 
-bash
+## Install the required dependencies:
 
-cd sentimentanalysis
-
-Install the required dependencies:
-
-bash
-
+```
 pip install -r requirements.txt
+```
 
-Run the app:
+## Run the app:
 
-bash
+```
+python sapp.py
+```
 
-    python sapp.py
+## Usage
 
-Usage
+    - Open the web interface in your browser.
+    - Enter a review and click Submit.
+    - View the analysis result and updated counts of positive and negative reviews.
 
-    Open the web interface in your browser.
-    Enter a review and click Submit.
-    View the analysis result and updated counts of positive and negative reviews.
-
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
